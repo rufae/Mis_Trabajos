@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><peliculas>
+    <pelicula>
+        <titulo>El planeta del sevilla</titulo>
+        <guionista>rafa</guionista>
+        <productora>Rafa</productora>
+        <director>Rafael</director>
+        <actor>rufae</actor>
+        <sinopsis>ah</sinopsis>
+    </pelicula>
+    <pelicula>
+        <titulo>Verano 1993</titulo>
+        <guionista>Carla Simón</guionista>
+        <productora>Inicia Films</productora>
+        <director>Carla Simón</director>
+        <actor>Laia Artigas</actor>
+        <sinopsis>Frida (Laia Artigas), una niña de seis añ os, afronta el primer verano de su vida con su nueva familia adoptiva tras la muerte de su madre. Lejos de su entorno cercano, en pleno campo, la niña deberá adaptarse a su nueva vida.</sinopsis>
+    </pelicula>
+    <pelicula>
+        <titulo>1</titulo>
+        <guionista>1</guionista>
+        <productora>1</productora>
+        <director>1</director>
+        <actor>1</actor>
+        <sinopsis>1</sinopsis>
+    </pelicula>
+    <pelicula>
+        <titulo>Godzilla</titulo>
+        <guionista>God</guionista>
+        <productora>Zilla</productora>
+        <director>Kong</director>
+        <actor>Godzilla</actor>
+        <sinopsis>ataqueee</sinopsis>
+    </pelicula>
+    <pelicula>
+        <titulo>El jugador de ajedrez</titulo>
+        <guionista>Julio Castedo</guionista>
+        <productora>Ishtar Films</productora>
+        <director>Luis Oliveros</director>
+        <actor> Marc Clotet</actor>
+        <sinopsis>En 1934 Diego Padilla gana el campeonato de España de ajedrez y conoce a una periodista francesa, Marianne Latour, de la cual se enamora.</sinopsis>
+    </pelicula>
+    <pelicula>
+        <titulo>Colonia</titulo>
+        <guionista>Florian Gallenberger</guionista>
+        <productora>Majestic Filmproduktion</productora>
+        <director>Florian Gallenberger</director>
+        <actor>Emma Watson</actor>
+        <sinopsis>Una joven pareja alemana, la azafata de vuelo Lena (Emma Watson) y el artista Daniel (Daniel Brühl), se ve envuelta en el golpe de Estado de Chile en 1973 conta Salvador Allende.</sinopsis>
+    </pelicula>
+</peliculas>
